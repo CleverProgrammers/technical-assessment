@@ -6,5 +6,5 @@
 👉 If the conversion is above 70 Fahrenheit make the color of the conversion number red otherwise make it green.<br>
 
 # 🌟Bonus Section
-👉Grab the weather of the current user on the site based on the location.<br>
+👉 Grab the weather of the current user on the site based on the location.<br>
 👉 Display that information in a component. 
