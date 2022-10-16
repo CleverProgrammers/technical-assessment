@@ -1,7 +1,7 @@
 # React Technical Test
 
 ### CSS Test
-[CSS Battle Link] (https://cssbattle.dev/play/19)
+[CSS Battle Link](https://cssbattle.dev/play/19)
 
 ### Convert Fahrenheit to Celcius.
 
