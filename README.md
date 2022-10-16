@@ -8,3 +8,5 @@
 # 🌟Bonus Section
 👉 Grab the weather of the current user on the site based on the location.<br>
 👉 Display that information in a component. 
+
+👉 The formula for conversion is (32°F − 32) × 5/9 = 0°C
