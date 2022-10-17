@@ -1,34 +1,35 @@
 # Technical Assessment
 
-## Sum Array
+## 1️⃣ Sum Array
 
 👉 Find a way to get the sum of all elements in the following array <br>
 👉 [8, 3, 2, 4, 5]
 
-## Find Max
+## 2️⃣ Find Max
 
 👉 Find the biggest number in the following array<br>
 👉 [8, 3, 5, 11, 4, 3, 11]
 
-## Filter Array
+## 3️⃣ Filter Array
 
 👉 Filter out the odd numbers in the array.<br>
 👉 [8, 4, 3, 5, 8, 9, 1, 22, 35, 34]<br>
 👉 Add the filtered odd numbers into a new array.
 
-## CSS Test
+## 4️⃣ CSS Test
 
 👉 [CSS Battle Link](https://cssbattle.dev/play/19)
 
-## Convert Fahrenheit to Celsius
+## 5️⃣ Convert Fahrenheit to Celsius
 
-👉 Create a component that handles an input and calculates the conversion.<br>
+👉 Create a component that handles an input and calculates the conversion from fahrenheit to celsius.<br>
 👉 Create a component that is responsible for displaying the calculated conversion.<br>
 👉 If the conversion is above 70 Fahrenheit make the color of the conversion number red otherwise make it green.<br>
 
-## 🌟Bonus Section
+## 6️⃣ 🌟Bonus Section
 
-👉Grab the weather of the current user on the site based on the location.<br>
+👉 Grab the weather of the current user on the site based on the location.<br>
 👉 Display that information in a component. <br>
 
-🔵Formula (32°F − 32) × 5/9 = 0°C
+🔵 Formula (32°F − 32) × 5/9 = 0°C<br>
+🟡 32°F is your input and will vary
