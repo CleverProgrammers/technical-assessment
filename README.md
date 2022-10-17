@@ -2,18 +2,18 @@
 
 # Sum Array
 
-👉 Find a way to get the sum of all elements in the following array
+👉 Find a way to get the sum of all elements in the following array <br>
 👉 [8, 3, 2, 4, 5]
 
 # Find Max
 
-👉 Find the biggest number in the following array
+👉 Find the biggest number in the following array<br>
 👉 [8, 3, 5, 11, 4, 3, 11]
 
 # Filter Array
 
-👉 Filter out the odd numbers in the array.
-👉 [8, 4, 3, 5, 8, 9, 1, 22, 35, 34]
+👉 Filter out the odd numbers in the array.<br>
+👉 [8, 4, 3, 5, 8, 9, 1, 22, 35, 34]<br>
 👉 Add the filtered odd numbers into a new array.
 
 # CSS Test
