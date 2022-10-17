@@ -22,7 +22,7 @@
 
 ## 5️⃣ Convert Fahrenheit to Celsius
 
-🔵 Formula (F − 32) × 5/9 = C<br>
+🔵 Formula: (F − 32) × 5/9 = C<br>
 
 👉 Create a component that handles an input and calculates the conversion from fahrenheit to celsius.<br>
 👉 Create a component that is responsible for displaying the calculated conversion.<br>
