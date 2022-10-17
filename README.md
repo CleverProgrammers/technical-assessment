@@ -18,18 +18,17 @@
 
 ## 4️⃣ CSS Test
 
-👉 [CSS Battle Link](https://cssbattle.dev/play/19)
+👉 [CSS Battle Link](https://cssbattle.dev/play/31)
 
 ## 5️⃣ Convert Fahrenheit to Celsius
 
 👉 Create a component that handles an input and calculates the conversion from fahrenheit to celsius.<br>
 👉 Create a component that is responsible for displaying the calculated conversion.<br>
-👉 If the conversion is above 70 Fahrenheit make the color of the conversion number red otherwise make it green.<br>
+👉 If the Fahrenheit is above 70 make the color of the conversion number red otherwise make it green.<br>
 
 ## 6️⃣ 🌟Bonus Section
 
 👉 Grab the weather of the current user on the site based on the location.<br>
 👉 Display that information in a component. <br>
 
-🔵 Formula (32°F − 32) × 5/9 = 0°C<br>
-🟡 32°F is your input and will vary
+🔵 Formula (F − 32) × 5/9 = C<br>
