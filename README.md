@@ -1,8 +1,6 @@
 # Technical Assessment
 
 # Sum Array
-### CSS Test
-[CSS Battle Link](https://cssbattle.dev/play/19)
 
 👉 Find a way to get the sum of all elements in the following array
 👉 [8, 3, 2, 4, 5]
