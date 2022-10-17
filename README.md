@@ -28,7 +28,8 @@
 
 ## 6️⃣ 🌟Bonus Section
 
-👉 Grab the weather of the current user on the site based on the location.<br>
-👉 Display that information in a component. <br>
+👉 Make an input for a city.<br>
+👉 Use any API of your choice get temperature in that city.<br>
+👉 Display the city and temperature information in a component. <br>
 
 🔵 Formula (F − 32) × 5/9 = C<br>
