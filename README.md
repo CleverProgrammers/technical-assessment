@@ -16,16 +16,16 @@
 👉 [8, 4, 3, 5, 8, 9, 1, 22, 35, 34]<br>
 👉 Add the filtered odd numbers into a new array.
 
-## 4️⃣ CSS Test
-
-👉 [CSS Battle Link](https://cssbattle.dev/play/31)
-
 ## 5️⃣ Convert Fahrenheit to Celsius
+
+![Finished App](https://user-images.githubusercontent.com/33699674/196365863-879f9c20-f917-4078-bf23-807bdebfc499.png)
+
 
 🔵 Formula: (F − 32) × 5/9 = C<br>
 
-👉 Create a component that handles an input and calculates the conversion from fahrenheit to celsius.<br>
-👉 Create a component that is responsible for displaying the calculated conversion.<br>
+👉 Choose a number (Fahrenheit) to convert to Celsius. <br>
+👉 Render the static number on the page. 
+👉 Create the functionality of converting the static Fahrenheit number to Celsius and render that value in place of the static number you chose.<br>
 👉 If the Fahrenheit is above 70 make the color of the conversion number red otherwise make it green.<br>
 
 ## 6️⃣ 🌟Bonus Section
