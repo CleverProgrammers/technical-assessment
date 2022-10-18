@@ -30,7 +30,7 @@
 
 ## 6️⃣ 🌟Bonus Section
 
-👉 Make an input for a city.<br>
+👉 Make an input to search for a city.<br>
 👉 Use any API of your choice get temperature in that city.<br>
 👉 Display the city and temperature information in a component. <br>
 
