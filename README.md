@@ -24,7 +24,7 @@
 🔵 Formula: (F − 32) × 5/9 = C<br>
 
 👉 Choose a number (Fahrenheit) to convert to Celsius. <br>
-👉 Render the static number on the page. 
+👉 Render the static number on the page. <br>
 👉 Create the functionality of converting the static Fahrenheit number to Celsius and render that value in place of the static number you chose.<br>
 👉 If the Fahrenheit is above 70 make the color of the conversion number red otherwise make it green.<br>
 
