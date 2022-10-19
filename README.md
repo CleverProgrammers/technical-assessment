@@ -18,7 +18,8 @@
 
 ## 5️⃣ Convert Fahrenheit to Celsius
 
-![Finished App](https://user-images.githubusercontent.com/33699674/196365863-879f9c20-f917-4078-bf23-807bdebfc499.png)
+![CleanShot 2022-10-19 at 07 54 20@2x](https://user-images.githubusercontent.com/33699674/196594893-f6f52e2a-728b-4a43-bd1e-fb696d623d8e.png)
+
 
 
 🔵 Formula: (F − 32) × 5/9 = C<br>
